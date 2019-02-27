@@ -31,8 +31,7 @@ namespace Incident.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
-
-        [HttpDelete]
+        
         public IActionResult Delete(int id)
         {
             var incident = _context.Incidents.FirstOrDefault(e => e.Id == id);
