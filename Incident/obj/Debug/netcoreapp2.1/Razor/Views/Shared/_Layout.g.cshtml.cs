@@ -44,7 +44,7 @@ namespace AspNetCore
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 227, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "238cd2cf6b24408e8d43984257d17ac5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ea25cb9b86e405b9478f176a6148f28", async() => {
                 BeginContext(31, 214, true);
                 WriteLiteral("\r\n    <title>Incident</title>\r\n\r\n    <!-- Handles styling the page to be more aesthetically pleasing -->\r\n    <link rel=\"stylesheet\" href=\"https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.6/css/bootstrap.min.css\" />\r\n");
                 EndContext();
@@ -64,7 +64,7 @@ namespace AspNetCore
             WriteLiteral("\r\n\r\n");
             EndContext();
             BeginContext(256, 488, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "73803d7aca0a4f6fbb1a3506dec32a88", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e63c419b03a345208f4c952a16338cff", async() => {
                 BeginContext(262, 77, true);
                 WriteLiteral("\r\n<!-- Where view content will be rendered -->\r\n<div class=\"col-sm-12\">\r\n    ");
                 EndContext();

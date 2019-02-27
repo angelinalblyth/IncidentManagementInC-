@@ -1,0 +1,15 @@
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\IncidentTests.deps.json
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\IncidentTests.runtimeconfig.json
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\IncidentTests.runtimeconfig.dev.json
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\IncidentTests.dll
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\bin\Debug\netcoreapp2.1\IncidentTests.pdb
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\obj\Debug\netcoreapp2.1\IncidentTests.csprojAssemblyReference.cache
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\obj\Debug\netcoreapp2.1\IncidentTests.csproj.CoreCompileInputs.cache
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\obj\Debug\netcoreapp2.1\IncidentTests.AssemblyInfoInputs.cache
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\obj\Debug\netcoreapp2.1\IncidentTests.AssemblyInfo.cs
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\obj\Debug\netcoreapp2.1\IncidentTests.dll
+C:\Users\angelina.blyth\source\repos\IncidentManagement\IncidentTests\obj\Debug\netcoreapp2.1\IncidentTests.pdb

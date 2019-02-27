@@ -52,3 +52,4 @@ C:\Users\angelina.blyth\source\repos\IncidentManagement\Incident\obj\Debug\netco
 C:\Users\angelina.blyth\source\repos\IncidentManagement\Incident\obj\Debug\netcoreapp2.1\Incident.pdb
 C:\Users\angelina.blyth\source\repos\IncidentManagement\Incident\obj\Debug\netcoreapp2.1\Incident.csproj.CopyComplete
 C:\Users\angelina.blyth\source\repos\IncidentManagement\Incident\obj\Debug\netcoreapp2.1\Razor\Views\Item\Create.g.cshtml.cs
+C:\Users\angelina.blyth\source\repos\IncidentManagement\Incident\obj\Debug\netcoreapp2.1\Razor\Views\Item\Index.g.cshtml.cs

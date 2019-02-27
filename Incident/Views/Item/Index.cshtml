@@ -2,12 +2,12 @@
 
 <h1>Incidents</h1>
 
-<a asp-action="create">Raise Incident</a>
+<a asp-action="create">Add Incident</a>
 
 <ul>
     @foreach (var incident in Model)
     {
-        <li>@incident.Description <a asp-action="delete" asp-route-id="@incident.Id">delete</li>
+        <li>@incident.Description <a asp-action="delete" asp-route-id="@incident.Id">delete</a></li>
     }
     
 </ul>
