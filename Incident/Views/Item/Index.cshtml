@@ -1,0 +1,13 @@
+﻿@model List<Incident.Models.Incident>
+
+<h1>Incidents</h1>
+
+<a asp-action="create">Raise Incident</a>
+
+<ul>
+    @foreach (var incident in Model)
+    {
+        <li>@incident.Description <a asp-action="delete" asp-route-id="@incident.Id">delete</li>
+    }
+    
+</ul>

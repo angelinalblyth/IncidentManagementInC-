@@ -1,0 +1,13 @@
+﻿@model Incident.Models.Incident
+
+<h3>Report Incident</h3>
+
+<form asp-action="create">
+    <input asp-for="DateOfIncident" />
+    <span asp-validation-for="DateOfIncident"></span>
+    
+    <input asp-for="Description" />
+    <span asp-validation-for="Description"></span>
+    <button type="submit">Raise Incident</button>
+
+</form>
